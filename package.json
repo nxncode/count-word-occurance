@@ -1,0 +1,16 @@
+{
+  "name": "count-words-occurance",
+  "version": "1.0.0",
+  "description": "Counts the Total number of words or the number of occurance ofa aparticular word.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Word",
+    "Count",
+    "Occurance"
+  ],
+  "author": "Nixon Augustine",
+  "license": "MIT"
+}
