@@ -1,6 +1,6 @@
 {
   "name": "count-words-occurance",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Counts the Total number of words or the number of occurance ofa aparticular word.",
   "main": "index.js",
   "scripts": {
